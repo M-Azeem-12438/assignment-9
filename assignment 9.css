@@ -1,0 +1,39 @@
+body
+{
+    
+    padding-left: 50px;
+}
+
+#result
+{background-color:black;
+    width: 185px;
+    height: 40px;
+color: white;
+border-color:red;
+}
+.allbutton
+{ margin-top: 10px;
+    margin-left: 10px;
+    
+    width: 30px;
+    height: 30px;
+    background-color:rgb(221, 215, 215);
+    border: white;
+}
+.ACbutton
+{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+    color: white;
+    border: white;background-color: red;}
+    .equalbutton{
+        margin-top: 10px;
+        margin-left: 10px;
+        width: 163px;
+        height: 30px;
+        background-color: royalblue;
+    }
+  
+    

@@ -1,0 +1,9 @@
+
+.remove-btn
+{
+    display: none;
+}
+li.list-group-item:hover  > .remove-btn
+{
+    display: block;
+}
